@@ -16,7 +16,7 @@ E tu sai creare un repository senza secrets? Vieni a scoprirlo in questa session
 
 ### References
 
-- Securing DevOps Environments (microsoft.com)
+- [Securing DevOps Environments](https://www.linkedin.com/pulse/securing-enterprise-devops-environments-new-ebook-sogeti-reijnen)
 - [Configuring OpenID Connect in Azure - GitHub Docs](https://docs.github.com/en/actions/deployment/security-hardening-your-deployments/configuring-openid-connect-in-azure)
 - [CodeQL for C# - CodeQL](https://codeql.github.com/docs/codeql-language-guides/codeql-for-csharp/)
 - [Keeping your dependencies updated with Azure Pipelines and Dependabot](https://techcommunity.microsoft.com/t5/azure-devops-blog/keeping-your-dependencies-updated-with-azure-pipelines-and/ba-p/3590020)
