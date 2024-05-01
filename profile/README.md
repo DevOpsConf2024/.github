@@ -1,4 +1,4 @@
-# DevOps
+# DevOps Conf 2024
 
 ## Attento c'è un secret nel tuo repository!
 
@@ -9,4 +9,4 @@ Per fortuna abbiamo a disposizione diversi strumenti come GitHub Advanced Securi
 Ma non solo… grazie a Azure Workload Identity Federation potremo configurare le nostre pipeline senza più preoccuparci di secrets o certificati scaduti !
 
 E tu sai creare un repository senza secrets? Vieni a scoprirlo in questa sessione!
-![Banner](room1_14_00.jpeg 'SessionBanner')
+[![Banner](room1_14_00.jpeg 'SessionBanner')](https://raw.githubusercontent.com/DevOpsConf2024/.github/main/profile/room1_14_00.jpeg)
