@@ -10,6 +10,6 @@ Ma non solo… grazie a Azure Workload Identity Federation potremo configurare l
 
 E tu sai creare un repository senza secrets? Vieni a scoprirlo in questa sessione!
 
-<a href="https://devopsconf.dotnetdev.it/">
+<a href="https://devopsconf.dotnetdev.it/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/DevOpsConf2024/.github/main/profile/room1_14_00.jpeg" />
 </a>
