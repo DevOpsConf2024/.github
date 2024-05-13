@@ -14,6 +14,9 @@ E tu sai creare un repository senza secrets? Vieni a scoprirlo in questa session
   <img align="center" src="https://raw.githubusercontent.com/DevOpsConf2024/.github/main/profile/room1_14_00.jpeg" />
 </a>
 
+### Slides
+- [Link](https://github.com/DevOpsConf2024/.github/blob/main/profile/DevOpsConf2024.pdf)
+
 ### References
 
 - [Securing DevOps Environments](https://www.linkedin.com/pulse/securing-enterprise-devops-environments-new-ebook-sogeti-reijnen)
